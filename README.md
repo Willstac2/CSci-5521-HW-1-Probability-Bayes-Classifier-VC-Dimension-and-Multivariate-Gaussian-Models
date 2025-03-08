@@ -1,4 +1,4 @@
-Download Link:https://programmingsolver.com/questions-and-answers/csci-5521-hw-1-probability-bayes-classifier-vc-dimension-and-multivariate-gaussian-models/
+**Download Link:** https://programmingsolver.com/questions-and-answers/csci-5521-hw-1-probability-bayes-classifier-vc-dimension-and-multivariate-gaussian-models/
 
 
 After your yearly checkup, the doctor has good news and bad news. The bad news is that you tested positive for a serious disease and that the test is very accurate: the probability of testing positive when you do have the disease is 0.983, and the probability of testing negative when you don’t have the disease is 0.945. The good news is that this is a rare disease, striking only one in ten thousand people in your demographic.
